@@ -35,10 +35,3 @@ personal-portfolio/
 ├── index.html
 ├── style.css
 └── script.js
-
-Author
-
-Intakhab Nabi
-
-Computer Science & Engineering
-Integral University, Lucknow
