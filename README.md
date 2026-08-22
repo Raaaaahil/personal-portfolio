@@ -26,7 +26,7 @@ This portfolio showcases my projects, technical skills, experience, certificatio
 
 ## Live Website
 
-[Visit Portfolio](https://my-portfolio-saa.netlify.app/)
+[Visit Portfolio](https://intakhab-nabi.netlify.app/)
 
 ## Project Structure
 
